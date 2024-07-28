@@ -192,11 +192,12 @@ var Tawk_API = Tawk_API || {},
   var s1 = document.createElement("script"),
     s0 = document.getElementsByTagName("script")[0];
   s1.async = true;
-  s1.src = "https://embed.tawk.to/60df10bf7f4b000ac03ab6a8/1f9jlirg6";
+  s1.src = "https://embed.tawk.to/66a5f9c832dca6db2cb6b1eb/1i3s5fe4i";
   s1.charset = "UTF-8";
   s1.setAttribute("crossorigin", "*");
   s0.parentNode.insertBefore(s1, s0);
 })();
+
 // End of Tawk.to Live Chat
 
 /* ===== SCROLL REVEAL ANIMATION ===== */
@@ -229,7 +230,7 @@ srtop.reveal(".about .content .resumebtn", { delay: 200 });
 
 /* SCROLL SKILLS */
 srtop.reveal(".skills .container", { interval: 200 });
-srtop.reveal(".skills .container .bar", { delay: 400 });
+srtop.reveal(".skillS .container .bar", { delay: 400 });
 
 /* SCROLL EDUCATION */
 srtop.reveal(".education .box", { interval: 200 });
