@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Ecommerce MERN",
+    "desc": "Full-Stack Ecommerce with Admin Dashboard and User Dashboard. MERN Stack WebApp, ready to use for business.",
+    "image": "ecommerce.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://quickmart-client.onrender.com/",
+      "code": "https://github.com/surajkr9572/Quickmart"
+    }
+  },
+  {
+    "name": "Online Compiler",
+    "desc": "Online Compiler is online website helps people to develope project",
+    "image": "online.jpeg",
+    "category": "mern",
+    "links": {
+      "view": "https://code-compiler-61c9.onrender.com/",
+      "code": "https://github.com/suraj1279/Code-Compiler"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, Javascript, Bootstrap, Node js, Express js, Mongodb.",
+    "image": "foodicious.png",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/suraj1279/restaurant-website",
+      "code": "https://github.com/suraj1279/restaurant-website"
+    }
+  },
+  {
+    "name": "Jock Extension",
+    "desc": "This Extension are integrate with chorme browser.This is built using html,css,javascript",
+    "image": "download.jpeg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Product-management",
+    "desc": "This website is specially build to showcase all the task.",
+    "image": "issuetrack.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bharatprojectmanagement.netlify.app/",
+      "code": "https://github.com/suraj1279/product-management-localstorage-"
+    }
+  },
+  {
+    "name": "Content Management",
+    "desc": "Content management is a online plateform where people store the content",
+    "image": "content.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://takecontent.netlify.app/",
+      "code": "https://github.com/suraj1279/Content_management"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1.png",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/suraj1279/portfolio"
+    }
+  },
+  {
+    "name": "ChatApp website",
+    "desc": "Simple chat app website built using HTML, CSS, JavaScript, Node js, Express js",
+    "image": "chatapp.jpeg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chatapp-4r13.onrender.com/",
+      "code": "https://github.com/suraj1279/chatApp"
+    }
+  },
+  {
+    "name": "Chat bot",
+    "desc": "Simple chat bot website is used to clear your doubt that is build using HTML, CSS, Javascript",
+    "image": "chat_bot.jpeg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chaatbot.netlify.app/",
+      "code": "https://github.com/suraj1279/chatbot"
+    }
+  },
+  {
+    "name": "To-do list",
+    "desc": "This is store daily route. build using HTML, CSS, Javascript, Nodejs, Express js",
+    "image": "todo.jpeg",
+    "category": "mern",
+    "links": {
+      "view": "https://todo-wbbn.onrender.com/",
+      "code": "https://github.com/suraj1279/todo"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, Javascript, Bootstrap, Node js, Express js, Mongodb.",
+    "image": "foodicious.png",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/suraj1279/restaurant-website",
+      "code": "https://github.com/suraj1279/restaurant-website"
+    }
+  },
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat.png",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/suraj1279/chat",
+      "code": "https://github.com/suraj1279/chat"
+    }
+  },
+  {
+    "name": "Digi-Dreamers",
+    "desc": "This website is use to manage the event. build by HTML,CSS, JavaScript",
+    "image": "digi.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://digi-dreamers.onrender.com/",
+      "code": "https://github.com/suraj1279/Digi-Dreamers"
+    }
+  },
+  {
+    "name": "Student Management",
+    "desc": "This website is build using java,sql.",
+    "image": "collage_management.jpeg",
+    "category": "java",
+    "links": {
+      "code": "https://github.com/suraj1279/student-management-system"
+    }
+  }
+]
